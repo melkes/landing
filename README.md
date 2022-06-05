@@ -3,6 +3,7 @@
 #### By _**Mike Wilkes**_
 
 #### _A landing/portfolio page to display coding work_
+* Live site on [Github Pages](https://melkes.github.io/landing/)
 
 ## Technologies Used
 
@@ -12,7 +13,7 @@
 
 ## Known Bugs
 
-* _Something unknown is preventing some images from displaying_
+* _An unknown something is preventing some images from displaying_
 * _"About Me" is contained on a separate page, which does not work on Github Pages_
 
 ## Roadmap
