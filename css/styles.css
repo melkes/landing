@@ -1,3 +1,17 @@
 .jumbotron {
     margin-top: 30px;
 }
+p.pagename {
+   font-weight:500;
+}
+.navlink {
+    font-weight:400;
+    color: #333;
+}
+/* Not using at the moment.
+.nav-pills {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight:500;
+    font-size: 21px;
+  } */
