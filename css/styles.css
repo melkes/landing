@@ -1,5 +1,7 @@
-.jumbotron {
+.container .jumbotron, .container-fluid .jumbotron {
     margin-top: 30px;
+    padding:30px;
+    background-color: #FDE7D2;
 }
 p.pagename {
    font-weight:500;
@@ -8,10 +10,21 @@ p.pagename {
     font-weight:400;
     color: #333;
 }
+.row {
+    margin: auto;
+    width: 100%;
+}
+
 /* Not using at the moment.
 .nav-pills {
     margin-top: 20px;
     margin-bottom: 10px;
     font-weight:500;
     font-size: 21px;
-  } */
+  }
+  
+  .container .jumbotron, .container-fluid .jumbotron {
+    margin-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+  */
