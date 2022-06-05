@@ -13,6 +13,14 @@
 ## Known Bugs
 
 * _Something unknown is preventing some images from displaying_
+* _"About Me" is contained on a separate page, which does not work on Github Pages_
+
+## Roadmap
+
+#### Needed improvements:
+* _Better design_
+* _Links to social media/contact info_
+* _Obviously, some actual portfolio content would be nice_
 
 ## License
 
