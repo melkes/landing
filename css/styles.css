@@ -32,6 +32,9 @@ ul.about{
 .container {
     margin: auto;
 }
+.space {
+    padding-top:50px;
+}
 /* Not using at the moment.
 .nav-pills {
     margin-top: 20px;

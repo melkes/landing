@@ -14,7 +14,7 @@
 ## Known Bugs
 
 * _An unknown something is preventing some images from displaying_
-* _"About Me" is contained on a separate page, which does not work on Github Pages_
+* _"About Me" is contained on a separate page, which does not work on Github Pages. I have included its content on index.html, so it can be seen, but this leaves a broken/confusing link at the top of the page._
 
 ## Roadmap
 
@@ -22,6 +22,7 @@
 * _Better design_
 * _Links to social media/contact info_
 * _Obviously, some actual portfolio content would be nice_
+* _Fix the navigation, or include all content on one page in a more coherent way._
 
 ## License
 
