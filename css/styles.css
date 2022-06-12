@@ -2,6 +2,8 @@
     margin-top: 30px;
     padding:30px;
     background-color: #FDE7D2;
+x    border: 1px solid #f7f7f7;
+    border-radius: 8px;
 }
 p.pagename {
    font-weight:500;
@@ -16,11 +18,19 @@ p.pagename {
 }
 
 .about-image {
-    margin: 0.67em 0;
     width: 50%;
     height: auto;
+    float:left;
 
   }
+
+.borders {
+    border: 1px solid #dfdfdf;
+    border-radius: 8px;
+    margin: 10px 0;
+    padding:10px;
+}
+
 .about{
     margin: 0.67em 0;
     display: block;
@@ -29,13 +39,12 @@ ul.about{
     margin-top: 10px;
     font-size: 16px;
 }
-.container {
-    margin: auto;
-}
+
+
+/* Not using at the moment.
 .space {
     padding-top:50px;
 }
-/* Not using at the moment.
 .nav-pills {
     margin-top: 20px;
     margin-bottom: 10px;
