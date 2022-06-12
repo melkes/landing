@@ -1,41 +1,45 @@
 .jumbotron {
     margin-top: 30px;
-    padding:30px;
+    padding: 30px;
     background-color: #FDE7D2;
-x    border: 1px solid #f7f7f7;
+    border: 1px solid #38363B;
     border-radius: 8px;
 }
+
 p.pagename {
-   font-weight:500;
+    font-weight: 500;
 }
+
 .navlink {
-    font-weight:400;
+    font-weight: 400;
     color: #333;
 }
+
 .row {
-    margin: auto;
+    margin: 15px auto;
     width: 100%;
 }
 
 .about-image {
     width: 50%;
     height: auto;
-    float:left;
+    float: left;
 
-  }
+}
 
 .borders {
     border: 1px solid #dfdfdf;
     border-radius: 8px;
     margin: 10px 0;
-    padding:10px;
+    padding: 10px;
 }
 
-.about{
+.about {
     margin: 0.67em 0;
     display: block;
 }
-ul.about{
+
+ul.about {
     margin-top: 10px;
     font-size: 16px;
 }
