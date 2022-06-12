@@ -17,8 +17,8 @@
 
 ## Known Bugs
 
-* _An unknown something is preventing some images from displaying_
-* _"About Me" is contained on a separate page, which does not work on Github Pages. I have included its content on index.html, so it can be seen, but this leaves a broken/confusing link at the top of the page._
+* _An unknown something is was preventing some images from displaying, it may or may not be fixed._
+* _"About Me" is contained on a separate page, which may or may not work on Github Pages. I have included its content on index.html, so it can be seen, but this leaves a broken/confusing link at the top of the page which must be remedied._
 
 ## Roadmap
 
