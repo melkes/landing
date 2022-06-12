@@ -11,6 +11,10 @@
 * _HTML_
 * _CSS_
 
+## Setup/Installation Requirements
+
+* Clone this repo and open index.html
+
 ## Known Bugs
 
 * _An unknown something is preventing some images from displaying_
